@@ -23,17 +23,17 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/kevinsawicki/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+		<url>https://github.com/Rockstar108/github-maven-example</url>
+		<connection>scm:git:git://github.com/Rockstar108/github-maven-example.git</connection>
+		<developerConnection>scm:git:git@github.com:Rockstar108/github-maven-example.git</developerConnection>
 	</scm>
 
 	<developers>
 		<developer>
-			<email>kevinsawicki@gmail.com</email>
-			<name>Kevin Sawicki</name>
-			<url>https://github.com/kevinsawicki</url>
-			<id>kevinsawicki</id>
+			<email>chandanj077@gmail.com</email>
+			<name>Rockstar108</name>
+			<url>https://github.com/Rockstar108</url>
+			<id>Rockstar108</id>
 		</developer>
 	</developers>
 
